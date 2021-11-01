@@ -1,0 +1,2 @@
+600 800 Mywindow Fullscreen 10 true 
+

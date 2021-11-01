@@ -1,0 +1,5 @@
+up 22
+down 18
+left 0
+right 3
+changeColor 57
